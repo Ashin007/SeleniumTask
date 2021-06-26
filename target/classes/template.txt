@@ -1,0 +1,20 @@
+ WebDriver driver;
+
+    @BeforeTest
+    public void initializeTest() throws IOException {
+        driver = initialize();
+    }
+    @AfterMethod
+    public void timeOut() throws InterruptedException {
+        Thread.sleep(2000);
+    }
+
+    @Test
+    public void yourTest(){}
+
+
+    @AfterTest
+    public void tearDownTest(){
+        driver.quit();
+
+    }

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Assignment Test Suite">
+<!--    <listeners>-->
+<!--        <listener class-name="base.Listeners"></listener>-->
+<!--    </listeners>-->
+
+    <test name="Smoke">
+<!--        <groups>-->
+<!--            <run>-->
+<!--                <include name="smoke"/>-->
+<!--            </run>-->
+<!--        </groups>-->
+
+
+
+        <classes>
+            <class name="testcases.AssignmentOne"/>
+
+
+            <class name="testcases.AssignmentTwo"/>
+
+
+            <class name="testcases.AssignmentThree"/>
+
+
+            <class name="testcases.AssignmentFour"/>
+
+
+            <class name="testcases.AssignmentFive"/>
+        </classes>
+    </test>
+</suite>

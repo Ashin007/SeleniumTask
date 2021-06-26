@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [All Test Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="C:/Users/ashin/IdeaProjects/SeleniumTasks(failed)">
+    <classes>
+      <class name="testcases.AssignmentTwo">
+        <methods>
+          <include name="testTwo"/>
+          <include name="tearDownTest"/>
+          <include name="initializeTest"/>
+          <include name="timeOut"/>
+        </methods>
+      </class> <!-- testcases.AssignmentTwo -->
+    </classes>
+  </test> <!-- C:/Users/ashin/IdeaProjects/SeleniumTasks(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->
