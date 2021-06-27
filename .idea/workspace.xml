@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9d26885e-de2a-4227-a125-d0ed88453909" name="Default Changelist" comment="" />
+    <list default="true" id="9d26885e-de2a-4227-a125-d0ed88453909" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/testcases/GmailOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testcases/GmailOperation.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +20,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1tP0ofHkB4gHpZUCiJN8V1nZk2a" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -26,6 +32,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Software Testing/GitPractice" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -33,8 +40,8 @@
       <recent name="C:\Users\ashin\Documents\SeleniumTasks\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.NoonTask">
-    <configuration name="GmailOperation" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.PopulationTest.mainTest">
+    <configuration name="AssignmentFive.testOne" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumTasks" />
       <extension name="coverage">
         <pattern>
@@ -43,8 +50,9 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="testcases" />
-      <option name="MAIN_CLASS_NAME" value="testcases.GmailOperation" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="MAIN_CLASS_NAME" value="testcases.AssignmentFive" />
+      <option name="METHOD_NAME" value="testOne" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -68,6 +76,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PopulationTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumTasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testcases" />
+      <option name="MAIN_CLASS_NAME" value="testcases.PopulationTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PopulationTest.mainTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumTasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testcases" />
+      <option name="MAIN_CLASS_NAME" value="testcases.PopulationTest" />
+      <option name="METHOD_NAME" value="mainTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RandomBlankTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumTasks" />
       <extension name="coverage">
@@ -85,55 +128,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScreenShotSample" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="SeleniumTasks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="testcases.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="testcases" />
-      <option name="MAIN_CLASS_NAME" value="testcases.ScreenShotSample" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ScreenShotSample.showRandomSS" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="SeleniumTasks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="testcases.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="testcases" />
-      <option name="MAIN_CLASS_NAME" value="testcases.ScreenShotSample" />
-      <option name="METHOD_NAME" value="showRandomSS" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="TestNG.ScreenShotSample" />
-      <item itemvalue="TestNG.ScreenShotSample.showRandomSS" />
-      <item itemvalue="TestNG.GmailOperation" />
       <item itemvalue="TestNG.RandomBlankTest" />
       <item itemvalue="TestNG.NoonTask" />
+      <item itemvalue="TestNG.AssignmentFive.testOne" />
+      <item itemvalue="TestNG.PopulationTest" />
+      <item itemvalue="TestNG.PopulationTest.mainTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.PopulationTest.mainTest" />
+        <item itemvalue="TestNG.PopulationTest" />
+        <item itemvalue="TestNG.AssignmentFive.testOne" />
         <item itemvalue="TestNG.NoonTask" />
         <item itemvalue="TestNG.RandomBlankTest" />
-        <item itemvalue="TestNG.GmailOperation" />
-        <item itemvalue="TestNG.ScreenShotSample.showRandomSS" />
-        <item itemvalue="TestNG.ScreenShotSample" />
       </list>
     </recent_temporary>
   </component>
@@ -163,10 +171,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="93" y="93" width="1350" height="678" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1536.864@0.0.1536.864" timestamp="1622664982497" />
-    <state x="574" y="148" key="#com.intellij.ide.util.MemberChooser" timestamp="1624523999388">
+    <state x="574" y="148" key="#com.intellij.ide.util.MemberChooser" timestamp="1624811005078">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="574" y="148" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1624523999388" />
+    <state x="574" y="148" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1624811005078" />
     <state x="498" y="216" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1622751054611">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -179,50 +187,54 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="267" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.864@0.0.1536.864" timestamp="1622661419014" />
-    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1624723203263">
+    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1624728657823">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1624723203263" />
-    <state width="1493" height="593" key="GridCell.Tab.0.bottom" timestamp="1624647638092">
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1624728657823" />
+    <state width="1493" height="522" key="GridCell.Tab.0.bottom" timestamp="1624816483762">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="593" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1624647638092" />
-    <state width="1493" height="593" key="GridCell.Tab.0.center" timestamp="1624647638092">
+    <state width="1493" height="522" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1624816483762" />
+    <state width="1493" height="522" key="GridCell.Tab.0.center" timestamp="1624816483762">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="593" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1624647638092" />
-    <state width="1493" height="593" key="GridCell.Tab.0.left" timestamp="1624647638092">
+    <state width="1493" height="522" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1624816483762" />
+    <state width="1493" height="522" key="GridCell.Tab.0.left" timestamp="1624816483762">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="593" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1624647638092" />
-    <state width="1493" height="593" key="GridCell.Tab.0.right" timestamp="1624647638092">
+    <state width="1493" height="522" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1624816483762" />
+    <state width="1493" height="522" key="GridCell.Tab.0.right" timestamp="1624816483762">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="593" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1624647638092" />
-    <state width="1493" height="421" key="GridCell.Tab.1.bottom" timestamp="1624572335076">
+    <state width="1493" height="522" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1624816483762" />
+    <state width="1493" height="629" key="GridCell.Tab.1.bottom" timestamp="1624814995204">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="421" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1624572335076" />
-    <state width="1493" height="421" key="GridCell.Tab.1.center" timestamp="1624572335075">
+    <state width="1493" height="629" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1624814995204" />
+    <state width="1493" height="629" key="GridCell.Tab.1.center" timestamp="1624814995204">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="421" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1624572335075" />
-    <state width="1493" height="421" key="GridCell.Tab.1.left" timestamp="1624572335074">
+    <state width="1493" height="629" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1624814995204" />
+    <state width="1493" height="629" key="GridCell.Tab.1.left" timestamp="1624814995204">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="421" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1624572335074" />
-    <state width="1493" height="421" key="GridCell.Tab.1.right" timestamp="1624572335075">
+    <state width="1493" height="629" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1624814995204" />
+    <state width="1493" height="629" key="GridCell.Tab.1.right" timestamp="1624814995204">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="421" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1624572335075" />
+    <state width="1493" height="629" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1624814995204" />
+    <state x="277" y="75" key="SettingsEditor" timestamp="1624728604791">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="277" y="75" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1624728604791" />
     <state x="463" y="30" width="609" height="804" key="find.popup" timestamp="1622749841747">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="463" y="30" width="609" height="804" key="find.popup/0.0.1536.864@0.0.1536.864" timestamp="1622749841747" />
-    <state x="209" y="128" key="new project wizard" timestamp="1623961114231">
+    <state x="209" y="128" key="new project wizard" timestamp="1624728699883">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="209" y="128" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1623961114231" />
+    <state x="209" y="128" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1624728699883" />
     <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1623596797537">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
