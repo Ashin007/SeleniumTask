@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9d26885e-de2a-4227-a125-d0ed88453909" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pageobjectmodel/worldpopulation/WorldPopulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pageobjectmodel/worldpopulation/WorldPopulation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/testcases/PopulationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testcases/PopulationTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -183,10 +184,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="93" y="93" width="1350" height="678" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1536.864@0.0.1536.864" timestamp="1622664982497" />
-    <state x="574" y="148" key="#com.intellij.ide.util.MemberChooser" timestamp="1624811005078">
+    <state x="574" y="148" key="#com.intellij.ide.util.MemberChooser" timestamp="1624984383844">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="574" y="148" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1624811005078" />
+    <state x="574" y="148" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1624984383844" />
     <state x="498" y="216" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1622751054611">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -207,22 +208,22 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1624728657823" />
-    <state width="1493" height="248" key="GridCell.Tab.0.bottom" timestamp="1624982495510">
+    <state width="1493" height="335" key="GridCell.Tab.0.bottom" timestamp="1624986170094">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="248" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1624982495510" />
-    <state width="1493" height="248" key="GridCell.Tab.0.center" timestamp="1624982495510">
+    <state width="1493" height="335" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1624986170094" />
+    <state width="1493" height="335" key="GridCell.Tab.0.center" timestamp="1624986170094">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="248" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1624982495510" />
-    <state width="1493" height="248" key="GridCell.Tab.0.left" timestamp="1624982495510">
+    <state width="1493" height="335" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1624986170094" />
+    <state width="1493" height="335" key="GridCell.Tab.0.left" timestamp="1624986170094">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="248" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1624982495510" />
-    <state width="1493" height="248" key="GridCell.Tab.0.right" timestamp="1624982495510">
+    <state width="1493" height="335" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1624986170094" />
+    <state width="1493" height="335" key="GridCell.Tab.0.right" timestamp="1624986170094">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="248" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1624982495510" />
+    <state width="1493" height="335" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1624986170094" />
     <state width="1493" height="629" key="GridCell.Tab.1.bottom" timestamp="1624816876619">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
