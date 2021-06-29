@@ -1,14 +1,14 @@
 package testcases;
 
 import base.Base;
-import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
-import org.testng.annotations.*;
+import org.testng.annotations.AfterMethod;
+import org.testng.annotations.AfterTest;
+import org.testng.annotations.BeforeTest;
+import org.testng.annotations.Test;
 import pageobjectmodel.worldpopulation.WorldPopulation;
 
 import java.io.IOException;
-import java.util.List;
 
 public class PopulationTest extends Base {
 
@@ -19,13 +19,14 @@ public class PopulationTest extends Base {
 
         driver = initialize();
     }
+
     @AfterMethod
     public void timeout() throws InterruptedException {
         Thread.sleep(3000);
     }
 
     @Test
-    public void mainTest(){
+    public void mainTest() {
 
         //target url
         driver.get("https://worldpopulationreview.com/");
@@ -36,7 +37,7 @@ public class PopulationTest extends Base {
     }
 
     @AfterTest
-    public void tearDown(){
+    public void tearDown() {
         driver.quit();
     }
 
