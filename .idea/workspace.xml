@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d26885e-de2a-4227-a125-d0ed88453909" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pageobjectmodel/worldpopulation/WorldPopulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pageobjectmodel/worldpopulation/WorldPopulation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testcases/ExcelPOItest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testcases/ExcelPOItest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testcases/NoonTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testcases/NoonTask.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/testcases/PopulationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testcases/PopulationTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,87 +34,60 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Software Testing/GitPractice" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="testcases" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ashin\Documents\SeleniumTasks" />
       <recent name="C:\Users\ashin\Documents\SeleniumTasks\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.PopulationTest.mainTest">
-    <configuration name="AssignmentFive.testOne" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.C:/Users/ashin/Documents/SeleniumTasks/testngpractice.xml">
+    <configuration name="C:/Users/ashin/Documents/SeleniumTasks/packagelevel.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumTasks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="testcases.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="testcases" />
-      <option name="MAIN_CLASS_NAME" value="testcases.AssignmentFive" />
-      <option name="METHOD_NAME" value="testOne" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/packagelevel.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NoonTask" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C:/Users/ashin/Documents/SeleniumTasks/regresion.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumTasks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="testcases.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="testcases" />
-      <option name="MAIN_CLASS_NAME" value="testcases.NoonTask" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/regresion.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PopulationTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C:/Users/ashin/Documents/SeleniumTasks/smoke.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumTasks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="testcases.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="testcases" />
-      <option name="MAIN_CLASS_NAME" value="testcases.PopulationTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/smoke.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PopulationTest.mainTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C:/Users/ashin/Documents/SeleniumTasks/testngpractice.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumTasks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="testcases.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="testcases" />
-      <option name="MAIN_CLASS_NAME" value="testcases.PopulationTest" />
-      <option name="METHOD_NAME" value="mainTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testngpractice.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RandomBlankTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestNGSample1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumTasks" />
       <extension name="coverage">
         <pattern>
@@ -121,7 +96,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="testcases" />
-      <option name="MAIN_CLASS_NAME" value="testcases.RandomBlankTest" />
+      <option name="MAIN_CLASS_NAME" value="testcases.TestNGSample1" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -130,19 +105,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="TestNG.RandomBlankTest" />
-      <item itemvalue="TestNG.NoonTask" />
-      <item itemvalue="TestNG.AssignmentFive.testOne" />
-      <item itemvalue="TestNG.PopulationTest" />
-      <item itemvalue="TestNG.PopulationTest.mainTest" />
+      <item itemvalue="TestNG.C:/Users/ashin/Documents/SeleniumTasks/testngpractice.xml" />
+      <item itemvalue="TestNG.TestNGSample1" />
+      <item itemvalue="TestNG.C:/Users/ashin/Documents/SeleniumTasks/packagelevel.xml" />
+      <item itemvalue="TestNG.C:/Users/ashin/Documents/SeleniumTasks/smoke.xml" />
+      <item itemvalue="TestNG.C:/Users/ashin/Documents/SeleniumTasks/regresion.xml" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.PopulationTest.mainTest" />
-        <item itemvalue="TestNG.PopulationTest" />
-        <item itemvalue="TestNG.AssignmentFive.testOne" />
-        <item itemvalue="TestNG.NoonTask" />
-        <item itemvalue="TestNG.RandomBlankTest" />
+        <item itemvalue="TestNG.C:/Users/ashin/Documents/SeleniumTasks/testngpractice.xml" />
+        <item itemvalue="TestNG.C:/Users/ashin/Documents/SeleniumTasks/packagelevel.xml" />
+        <item itemvalue="TestNG.C:/Users/ashin/Documents/SeleniumTasks/smoke.xml" />
+        <item itemvalue="TestNG.C:/Users/ashin/Documents/SeleniumTasks/regresion.xml" />
+        <item itemvalue="TestNG.TestNGSample1" />
       </list>
     </recent_temporary>
   </component>
@@ -208,22 +183,22 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1624728657823" />
-    <state width="1493" height="335" key="GridCell.Tab.0.bottom" timestamp="1624986199348">
+    <state width="1493" height="477" key="GridCell.Tab.0.bottom" timestamp="1625079384452">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="335" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1624986199348" />
-    <state width="1493" height="335" key="GridCell.Tab.0.center" timestamp="1624986199348">
+    <state width="1493" height="477" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1625079384452" />
+    <state width="1493" height="477" key="GridCell.Tab.0.center" timestamp="1625079384452">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="335" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1624986199348" />
-    <state width="1493" height="335" key="GridCell.Tab.0.left" timestamp="1624986199348">
+    <state width="1493" height="477" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1625079384452" />
+    <state width="1493" height="477" key="GridCell.Tab.0.left" timestamp="1625079384452">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="335" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1624986199348" />
-    <state width="1493" height="335" key="GridCell.Tab.0.right" timestamp="1624986199348">
+    <state width="1493" height="477" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1625079384452" />
+    <state width="1493" height="477" key="GridCell.Tab.0.right" timestamp="1625079384452">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="335" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1624986199348" />
+    <state width="1493" height="477" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1625079384452" />
     <state width="1493" height="629" key="GridCell.Tab.1.bottom" timestamp="1624816876619">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -244,6 +219,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="277" y="75" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1624728604791" />
+    <state x="578" y="349" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1625077674127">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="578" y="349" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1625077674127" />
     <state x="463" y="30" width="609" height="804" key="find.popup" timestamp="1622749841747">
       <screen x="0" y="0" width="1536" height="864" />
     </state>

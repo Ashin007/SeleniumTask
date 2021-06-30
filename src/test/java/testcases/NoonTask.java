@@ -16,16 +16,16 @@ import java.util.*;
 public class NoonTask extends Base {
     WebDriver driver;
 
-    @BeforeTest
+    @BeforeTest(groups = {"smoke"})
     public void initializeTest() throws IOException {
         driver = initialize();
     }
-    @AfterMethod
+    @AfterMethod(groups = {"smoke"})
     public void timeOut() throws InterruptedException {
         Thread.sleep(2000);
     }
 
-    @Test
+    @Test(groups = {"smoke"})
     public void yourTest() throws InterruptedException {
 
       JavascriptExecutor js = (JavascriptExecutor) driver;
@@ -65,7 +65,7 @@ public class NoonTask extends Base {
 
 
 
-    @AfterTest
+    @AfterTest(groups = {"smoke"})
     public void tearDownTest(){
         driver.quit();
 

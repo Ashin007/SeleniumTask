@@ -2,10 +2,7 @@ package testcases;
 
 import base.Base;
 import org.openqa.selenium.WebDriver;
-import org.testng.annotations.AfterMethod;
-import org.testng.annotations.AfterTest;
-import org.testng.annotations.BeforeTest;
-import org.testng.annotations.Test;
+import org.testng.annotations.*;
 import pageobjectmodel.worldpopulation.WorldPopulation;
 
 import java.io.IOException;
@@ -14,18 +11,18 @@ public class PopulationTest extends Base {
 
     WebDriver driver;
 
-    @BeforeTest
+    @BeforeTest(groups = {"smoke"})
     public void initializeTest() throws IOException {
 
         driver = initialize();
     }
 
-    @AfterMethod
+    @AfterMethod(groups = {"smoke"})
     public void timeout() throws InterruptedException {
         Thread.sleep(3000);
     }
 
-    @Test
+    @Test(groups = {"smoke"})
     public void mainTest() {
 
         //target url
@@ -36,7 +33,7 @@ public class PopulationTest extends Base {
 
     }
 
-    @AfterTest
+    @AfterTest(groups = {"smoke"})
     public void tearDown() {
         driver.quit();
     }

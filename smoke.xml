@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Smoke Testing" parallel="tests" thread-count="3">
+
+    <test name="Smoke">
+        <groups>
+            <run>
+                <include name="smoke"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="testcases.ExcelPOItest"/>
+            <class name="testcases.NoonTask"/>
+            <class name="testcases.PopulationTest"/>
+        </classes>
+    </test>
+</suite>

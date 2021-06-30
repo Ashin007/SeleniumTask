@@ -46,7 +46,7 @@ public class ExcelPOItest {
         }
     }
 
-    @Test
+    @Test(groups = {"smoke"})
     public void myData() throws IOException {
         ArrayList<String> data;
         ArrayList<String> beta;
