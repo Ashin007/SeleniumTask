@@ -15,13 +15,17 @@ public class TestNGSample1 {
 
         System.out.println("Sample 1: Test One");
     }
+    @Parameters({"URL"})
     @Test
-    public void testTwo(){
+    public void testTwo(String urlname){
+        System.out.println("URL: "+urlname);
         System.out.println("Sample 1: Test Two");
         System.out.println("Executing me before : sample 1 test five because he is depends on me");
     }
-    @Test(groups = {"smoke"})
-    public void testThree(){
+    @Test(dataProvider = "getData",groups = {"smoke"})
+    public void testThree(String username, String password){
+        System.out.println(username);
+        System.out.println(password);
         System.out.println("Sample 1: Test Three");
     }
     @Test(groups = {"smoke"})
@@ -69,4 +73,40 @@ public class TestNGSample1 {
         System.out.println("after group");
     }
 
+    @DataProvider
+    public Object[][] getData(){
+
+        Object[][] data = new Object[3][2];
+
+        data[0][0] = "username1";
+        data[0][1] = "password1";
+        data[1][0] = "username2";
+        data[1][1] = "password2";
+        data[2][0] = "username3";
+        data[2][1] = "password3";
+
+        return data;
+
+    }
+
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
